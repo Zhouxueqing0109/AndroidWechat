@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_bottom.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/bottom.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_common_bg.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/common_bg.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_bottom_bar.9.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/bottom_bar.9.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_find_frd_normal.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_find_frd_normal.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_settings_pressed.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_settings_pressed.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_item_demo.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/item_demo.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_tab03.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/tab03.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_weixin_pressed.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_weixin_pressed.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_find_frd_pressed.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_bottom.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/bottom.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_settings_normal.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_settings_normal.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_weixin_normal.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_weixin_normal.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_tab01.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/tab01.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_tab02.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/tab02.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_top.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/top.xml"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_address_normal.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_address_normal.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/drawable_tab_address_pressed.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/drawable/tab_address_pressed.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouxueqing/wechat/WeChat/app/build/intermediates/res/merged/debug/layout_tab04.xml.flat",
+        "source": "/Users/zhouxueqing/wechat/WeChat/app/src/main/res/layout/tab04.xml"
+    }
+]

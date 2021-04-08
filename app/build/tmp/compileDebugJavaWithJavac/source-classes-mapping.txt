@@ -1,0 +1,15 @@
+com/example/wechat/weixinFragment.java
+ com.example.wechat.weixinFragment
+com/example/wechat/VerticalAdappter.java
+ com.example.wechat.VerticalAdappter
+ com.example.wechat.VerticalAdappter$verticalviewholder
+com/example/wechat/contactFragment.java
+ com.example.wechat.contactFragment
+com/example/wechat/frdFragment.java
+ com.example.wechat.frdFragment
+com/example/wechat/settingsFragment.java
+ com.example.wechat.settingsFragment
+com/example/wechat/BuildConfig.java
+ com.example.wechat.BuildConfig
+com/example/wechat/MainActivity.java
+ com.example.wechat.MainActivity
